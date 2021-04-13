@@ -1,0 +1,17 @@
+#gameScreen{
+  display: grid;
+  grid-template-columns: 5fr 1fr;
+}
+
+#wikipediaEntry{
+  margin: 1em;
+}
+
+.sidebarWrapper{
+  position: relative;
+}
+
+.sidebarWrapper > div{
+  position: fixed;
+  width: 100%;
+}

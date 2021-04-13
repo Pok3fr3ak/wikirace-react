@@ -1,0 +1,22 @@
+ - Socket Events
+   - [ ] Get Lobby Code
+   - [ ] Get Players
+   - [ ] Ready Button
+   - [ ] Emit Ready
+   - [ ] Emit Done
+   - [ ] Handle Done
+     - [ ] Reroute?
+  
+ - React
+   - [ ] Parse Wikipedia
+   - [ ] Fetch Stuff
+     - [ ] Build URL
+     - [ ] Fetch
+   - [ ] Player List during Game
+   - [ ] Timer
+   - [ ] Handle Lobby Code URL
+   - [ ] Local Storage
+     - [ ] Set Username
+     - [ ] Set LobbyID
+     - [ ] Get Username
+     - [ ] Get LobbyID
